@@ -2,6 +2,10 @@
 
 Senior IT Executive at Justdial, focused on desktop and end-user support, helpdesk operations, and basic network troubleshooting. I’m building toward IT system administration and currently learning Linux.
 
+## Portfolio
+
+[🌐 View My Portfolio](https://parmeshwar3115.github.io/Parmeshwar3115/)
+
 ## About Me
 
 - Senior IT Executive at Justdial
@@ -31,5 +35,3 @@ Senior IT Executive at Justdial, focused on desktop and end-user support, helpde
 ## Connect
 
 [LinkedIn — View my professional profile](https://www.linkedin.com/in/parmeshwar-gupta-844745295/)
-
-<!-- Add a verified portfolio link here when the portfolio is published. -->
